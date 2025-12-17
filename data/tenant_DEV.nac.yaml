@@ -33,3 +33,6 @@ apic:
 
             - name: VLAN202
               bridge_domain: 10.1.202.0_24
+
+            - name: VLAN203
+              bridge_domain: 10.1.203.0_24
